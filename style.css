@@ -1,0 +1,17 @@
+* {
+    background-color: white;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.left-nav {
+    
+}
+
+.right-nav {
+    
+}
